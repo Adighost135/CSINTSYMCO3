@@ -1,0 +1,18 @@
+MCO3 S13 Group 2 Contributions
+
+Bryce Andrei C. Miranda
+- Jupyter Notebook code
+- Data Processing
+- Gaussian Naive Bayes Model Training
+Ron William M. Cajumban
+- Model Evaluation
+- Confusion Matrix
+- Results and Analysis
+Timothy Robert P. Bacud
+- Results and Analysis
+- Recommendations
+- Conclusion
+
+
+Google Colab Report link:
+https://colab.research.google.com/drive/1z_rZcIAbhbVEy7APAinAANHm8T1nUm_i?usp=sharing
